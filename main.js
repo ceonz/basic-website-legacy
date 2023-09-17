@@ -8,3 +8,11 @@ catbutton?.addEventListener("click", () => {
 horsebutton?.addEventListener("click", () => {
   alert("Goldship")
 })
+
+majorwin1?.addEventListener("click", () => {
+  alert("Tokinominoru Kinen (2012)")
+})
+
+majorwin2?.addEventListener("click", () => {
+  alert("Satsuki Shō (2012)")
+})
